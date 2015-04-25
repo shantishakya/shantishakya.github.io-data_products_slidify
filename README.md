@@ -1,5 +1,4 @@
-# data_products_slidify
-Course Project - Developing Data Products - Part 2
+# Developing Data Products - Course Project - Part 2
 
 This repository has the files for the second part of the Developing Data Products Course Project. The peer assessed assignment has two parts. First, we need to create a Shiny application and deploy it on Rstudio's servers. Second, we should use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about the application. 
 
